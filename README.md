@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Platform  Manual Testing Project
 
-## 📌 Project Overview
+##  Project Overview
 This repository showcases a comprehensive manual testing suite for a standard E-Commerce web application (Focus Areas: User Authentication, Product Search, and Cart Management). The objective is to demonstrate the end-to-end Software Testing Life Cycle (STLC) documentation, including Test Cases and Bug Reports.
 
 ---
